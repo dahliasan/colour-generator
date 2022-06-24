@@ -1,4 +1,4 @@
-👀 View the demo [here](https://fxhd1.github.io/colour-generator/).
+👀 View the demo [here](https://dahliasan.github.io/colour-generator/).
 
 # Overview
 Users can generate a colour palette by providing a seed colour. There is a range of palette types they can choose from. This app generates the colours from [The Color API](https://www.thecolorapi.com/).
@@ -24,8 +24,6 @@ This is a project from the [Frontend Developer Career Path](https://scrimba.com/
 
 ## Links
 - [Solution on Scrimba](https://scrimba.com/scrim/coe7645f8b155aa7d3ce2438b)
-- [Live demo](https://fxhd1.github.io/colour-generator/)
-
 
 # Acknowledgements
 - [Frontend Developer Career Path](https://scrimba.com/learn/frontend) by Scrimba.
